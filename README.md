@@ -14,7 +14,7 @@ Complete EDA workflow (Module 2 → Module 7) in Python: data import & cleaning,
 | `requirements.txt` | Python dependencies |
 
 ## Demo video
-▶️ [https://drive.google.com/file/d/1pMGS9ZEOhpJBA_XwimtoHjr4jj2yFv2J/view?usp=sharing]
+▶️ https://drive.google.com/file/d/1pMGS9ZEOhpJBA_XwimtoHjr4jj2yFv2J/view?usp=sharing
 
 ## Run it
 ```bash
